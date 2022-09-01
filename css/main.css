@@ -1,0 +1,7 @@
+@import "./reset.css";
+
+
+body {
+    color: aqua;
+    font-size: 80px;
+}
